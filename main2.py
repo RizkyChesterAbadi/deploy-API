@@ -1,7 +1,7 @@
 #Import Package
 from fastapi import FastAPI , Request, Header, HTTPException
 
-import pandas as pd
+
 
 #membuat object FastAPI dan simpan ke variable app
 app = FastAPI()
